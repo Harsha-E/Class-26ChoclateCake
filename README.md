@@ -1,2 +1,2 @@
-# Class-26ChoclateCake
-Class-26ChoclateCake
+# Class-26ChocolateCake
+Class-26ChocolateCake
